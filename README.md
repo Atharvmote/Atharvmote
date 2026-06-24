@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Full Stack Developer specializing in MERN Stack, Java, Spring Boot, and AI-powered applications. Passionate about building scalable, high-performance digital products and transforming ideas into impactful real-world solutions.
 
 
